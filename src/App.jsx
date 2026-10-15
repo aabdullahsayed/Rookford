@@ -13,6 +13,7 @@ function App() {
     <h2> Denim ! The Rookford </h2>
 	
 	<p> Rookford is a denim Brand which is fully focused on creating classic vintage attires </p>
+	<h3> Checking the update here </h3>
 	</>
   )
 }
