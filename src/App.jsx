@@ -8,8 +8,12 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
+  <>
     
-    <> Edit the react files - Rookford </>
+    <h2> Denim ! The Rookford </h2>
+	
+	<p> Rookford is a denim Brand which is fully focused on creating classic vintage attires </p>
+	</>
   )
 }
 
